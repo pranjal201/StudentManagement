@@ -1,3 +1,6 @@
+<img src="./screenshots/Screenshot from 2023-04-28 20-15-55.png">
+<img src="./screenshots/Screenshot from 2023-04-28 20-16-13.png">
+
 # AngularStudentManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
