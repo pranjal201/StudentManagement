@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-managementsystem-33311": {
+      "hosting": {
+        "angular-StudentManagement": [
+          "student-managementsystem-33311"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-managementsystem-33311"
+  }
+}

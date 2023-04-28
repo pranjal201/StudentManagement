@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css');
+h1{
+ top: 50%;
+   left: 25%;
+   margin-left: 750px;
+   margin-top: 80px;
+
+}
+#name {
+    margin-left: 930px;
+}
