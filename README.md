@@ -1,3 +1,5 @@
+<img src="./screenshots/screencast.gif">
+
 <img src="./screenshots/Screenshot from 2023-04-28 20-15-55.png">
 <img src="./screenshots/Screenshot from 2023-04-28 20-16-13.png">
 
